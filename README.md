@@ -1,2 +1,2 @@
 # Move-It
-moving company
+moving company front page using Bootstrap
